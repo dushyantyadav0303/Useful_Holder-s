@@ -66,23 +66,26 @@ soon!
 
 <div align="center">
 <table>
-<tr>
-<td valign="goggle-holder"><img width=800px alt="goggle-holder" src="https://github.com/user-attachments/assets/f4a712cf-afb4-4705-a0e3-3ef2daa35a26" />
+     <tr>
+<td valign="goggle-holder"><img width=350px alt="goggle-holder" src="https://github.com/user-attachments/assets/f4a712cf-afb4-4705-a0e3-3ef2daa35a26" />
 </td>
-<td valign="watch-holder"><img width=800px alt="watch-holder" src="https://github.com/user-attachments/assets/91a9d31f-3588-434b-9858-bc8b0f5f4ebf" />
+<td valign="watch-holder"><img width=350px alt="watch-holder" src="https://github.com/user-attachments/assets/91a9d31f-3588-434b-9858-bc8b0f5f4ebf" />
 </td>
-<td valign="Mobile-holder"><img width=800px alt="mobile-holder" src="https://github.com/user-attachments/assets/889437f4-f95b-4937-95de-61e0021b9725" />
+<td valign="Mobile-holder"><img width=350px alt="mobile-holder" src="https://github.com/user-attachments/assets/889437f4-f95b-4937-95de-61e0021b9725" />
 </td>
-<td valign="cup-holder"><img width=800px alt="cup-holder" src="https://github.com/user-attachments/assets/8206ffe4-0050-4ae1-be1c-03db45cf0c8e" />
+<td valign="cup-holder"><img width=350px alt="cup-holder" src="https://github.com/user-attachments/assets/8206ffe4-0050-4ae1-be1c-03db45cf0c8e" />
+</td
+      </tr>
+      <tr>
+<td valign="key-holder"><img width=350px alt="key-holder" src="https://github.com/user-attachments/assets/f431b8ba-37e4-4efc-a014-1c7b968e8a99" />
 </td>
-<td valign="key-holder"><img width=800px alt="key-holder" src="https://github.com/user-attachments/assets/f431b8ba-37e4-4efc-a014-1c7b968e8a99" />
+<td valign="rack-holder"><img width=350px alt="rack-holder" src="https://github.com/user-attachments/assets/4487b14f-9a9c-45e5-b1b2-7bb3ba5da306" />
 </td>
-<td valign="rack-holder"><img width=800px alt="rack-holder" src="https://github.com/user-attachments/assets/4487b14f-9a9c-45e5-b1b2-7bb3ba5da306" />
+<td valign="remote-holder"><img width=350px alt="remote-holder" src="https://github.com/user-attachments/assets/3aac26aa-f7e2-4e1e-be62-f756144cfc39" />
 </td>
-<td valign="remote-holder"><img width=800px alt="remote-holder" src="https://github.com/user-attachments/assets/3aac26aa-f7e2-4e1e-be62-f756144cfc39" />
+<td valign="brushholder1"><img width=350px alt="brush-holder" src="https://github.com/user-attachments/assets/26e3781d-b40c-49c4-8b37-24e8411a4a45" />
 </td>
-<td valign="brushholder1"><img width=800px alt="brush-holder" src="https://github.com/user-attachments/assets/26e3781d-b40c-49c4-8b37-24e8411a4a45" />
-</td>
+    </tr>
 </table>
 </div>
 
