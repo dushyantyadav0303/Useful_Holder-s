@@ -67,23 +67,23 @@ soon!
 <div align="center">
 <table>
      <tr>
-<td valign="goggle-holder"><img width=350px alt="goggle-holder" src="https://github.com/user-attachments/assets/f4a712cf-afb4-4705-a0e3-3ef2daa35a26" />
+<td valign="goggle-holder"><img width=400px alt="goggle-holder" src="https://github.com/user-attachments/assets/f4a712cf-afb4-4705-a0e3-3ef2daa35a26" />
 </td>
-<td valign="watch-holder"><img width=350px alt="watch-holder" src="https://github.com/user-attachments/assets/91a9d31f-3588-434b-9858-bc8b0f5f4ebf" />
+<td valign="watch-holder"><img width=400px alt="watch-holder" src="https://github.com/user-attachments/assets/91a9d31f-3588-434b-9858-bc8b0f5f4ebf" />
 </td>
-<td valign="Mobile-holder"><img width=350px alt="mobile-holder" src="https://github.com/user-attachments/assets/889437f4-f95b-4937-95de-61e0021b9725" />
+<td valign="Mobile-holder"><img width=400px alt="mobile-holder" src="https://github.com/user-attachments/assets/889437f4-f95b-4937-95de-61e0021b9725" />
 </td>
-<td valign="cup-holder"><img width=350px alt="cup-holder" src="https://github.com/user-attachments/assets/8206ffe4-0050-4ae1-be1c-03db45cf0c8e" />
+<td valign="cup-holder"><img width=400px alt="cup-holder" src="https://github.com/user-attachments/assets/8206ffe4-0050-4ae1-be1c-03db45cf0c8e" />
 </td
       </tr>
       <tr>
-<td valign="key-holder"><img width=350px alt="key-holder" src="https://github.com/user-attachments/assets/f431b8ba-37e4-4efc-a014-1c7b968e8a99" />
+<td valign="key-holder"><img width=400px alt="key-holder" src="https://github.com/user-attachments/assets/f431b8ba-37e4-4efc-a014-1c7b968e8a99" />
 </td>
-<td valign="rack-holder"><img width=350px alt="rack-holder" src="https://github.com/user-attachments/assets/4487b14f-9a9c-45e5-b1b2-7bb3ba5da306" />
+<td valign="rack-holder"><img width=400px alt="rack-holder" src="https://github.com/user-attachments/assets/4487b14f-9a9c-45e5-b1b2-7bb3ba5da306" />
 </td>
-<td valign="remote-holder"><img width=350px alt="remote-holder" src="https://github.com/user-attachments/assets/3aac26aa-f7e2-4e1e-be62-f756144cfc39" />
+<td valign="remote-holder"><img width=400px alt="remote-holder" src="https://github.com/user-attachments/assets/3aac26aa-f7e2-4e1e-be62-f756144cfc39" />
 </td>
-<td valign="brushholder1"><img width=350px alt="brush-holder" src="https://github.com/user-attachments/assets/26e3781d-b40c-49c4-8b37-24e8411a4a45" />
+<td valign="brushholder1"><img width=400px alt="brush-holder" src="https://github.com/user-attachments/assets/26e3781d-b40c-49c4-8b37-24e8411a4a45" />
 </td>
     </tr>
 </table>
@@ -107,24 +107,25 @@ soon!
 <div align="center">
 <table>
 <tr>
-<td valign="goggle-holder"><img width=350px alt="goggle-holder" src="https://github.com/user-attachments/assets/a134dbb1-3f28-4239-8854-193348def5fb" />
+<td valign="goggle-holder"><img width=400px alt="goggle-holder" src="https://github.com/user-attachments/assets/a134dbb1-3f28-4239-8854-193348def5fb" />
 </td>
-
-<td valign="watch-holder"><img width=350px alt="watch-holder" src="https://github.com/user-attachments/assets/086b1987-7d73-4fff-bf5c-2ddf127fca02" />
+<td valign="watch-holder"><img width=400px alt="watch-holder" src="https://github.com/user-attachments/assets/086b1987-7d73-4fff-bf5c-2ddf127fca02" />
 </td>
-<td valign="Mobile-holder"><img width=350px alt="mobile-holder" src="https://github.com/user-attachments/assets/5b3aec17-179e-4c16-8392-c60ee8be7334" />
+<td valign="Mobile-holder"><img width=400px alt="mobile-holder" src="https://github.com/user-attachments/assets/5b3aec17-179e-4c16-8392-c60ee8be7334" />
 </td>
-<td valign="cup-holder"><img width=350px alt="cup-holder" src="https://github.com/user-attachments/assets/084242f7-7b61-4bed-903b-c5fa48e5583e" />
+<td valign="cup-holder"><img width=400px alt="cup-holder" src="https://github.com/user-attachments/assets/084242f7-7b61-4bed-903b-c5fa48e5583e" />
 </td>
-<td valign="key-holder"><img width=350px alt="key-holder" src="https://github.com/user-attachments/assets/54939395-b84d-4ba9-b711-fcf3bd398743" />
+</tr>
+    <tr> 
+<td valign="key-holder"><img width=400px alt="key-holder" src="https://github.com/user-attachments/assets/54939395-b84d-4ba9-b711-fcf3bd398743" />
 </td>
-<td valign="rack-holder"><img width=350px alt="rack-holder" src="https://github.com/user-attachments/assets/c28436d3-806f-4a8a-8dfb-0dd799e322c7" />
+<td valign="rack-holder"><img width=400px alt="rack-holder" src="https://github.com/user-attachments/assets/c28436d3-806f-4a8a-8dfb-0dd799e322c7" />
 </td>
-<td valign="remote-holder"><img width=350px alt="remote-holder" src="https://github.com/user-attachments/assets/671fb6ab-b91e-4b5d-bad5-cc7b098cce2b" />
+<td valign="remote-holder"><img width=400px alt="remote-holder" src="https://github.com/user-attachments/assets/671fb6ab-b91e-4b5d-bad5-cc7b098cce2b" />
 </td>
-<td valign="brushholder1"><img width=350px alt="brushholder1" src="https://github.com/user-attachments/assets/976587d1-ac94-426b-9d09-b148b529a4b6" />
+<td valign="brushholder1"><img width=400px alt="brushholder1" src="https://github.com/user-attachments/assets/976587d1-ac94-426b-9d09-b148b529a4b6" />
 </td>
-
+</tr>
 </table>
 </div>
 
@@ -136,22 +137,25 @@ soon!
 <div align="center">
 <table>
 <tr>
-<td valign="goggle-holder"><img width=350px alt="goggle-holder" src="https://github.com/user-attachments/assets/37facdc2-fcdd-49c8-a997-2aa60813c9ce" />
+<td valign="goggle-holder"><img width=400px alt="goggle-holder" src="https://github.com/user-attachments/assets/37facdc2-fcdd-49c8-a997-2aa60813c9ce" />
 </td>
-<td valign="watch-holder"><img width=350px alt="watch-holder" src="https://github.com/user-attachments/assets/91277f53-0370-41e1-8883-a7e49eb1d682" />
+<td valign="watch-holder"><img width=400px alt="watch-holder" src="https://github.com/user-attachments/assets/91277f53-0370-41e1-8883-a7e49eb1d682" />
 </td>
-<td valign="Mobile-holder"><img width=350px alt="mobile-holder" src="https://github.com/user-attachments/assets/c292df74-ec67-45a5-beef-7e04cef63c35" />
+<td valign="Mobile-holder"><img width=400px alt="mobile-holder" src="https://github.com/user-attachments/assets/c292df74-ec67-45a5-beef-7e04cef63c35" />
 </td>
-<td valign="cup-holder"><img width=350px alt="cup-holder" src="https://github.com/user-attachments/assets/f4217d1f-40f8-4872-8529-e2aca345ceb7" />
+<td valign="cup-holder"><img width=400px alt="cup-holder" src="https://github.com/user-attachments/assets/f4217d1f-40f8-4872-8529-e2aca345ceb7" />
 </td>
-<td valign="key-holder"><img width=350px alt="key-holder" src="https://github.com/user-attachments/assets/95a3e3aa-d82e-4766-86fa-4100f7bf46f5" />
+  </tr>
+    <tr>
+<td valign="key-holder"><img width=400px alt="key-holder" src="https://github.com/user-attachments/assets/95a3e3aa-d82e-4766-86fa-4100f7bf46f5" />
 </td>
-<td valign="rack-holder"><img width=350px alt="rack-holder" src="https://github.com/user-attachments/assets/2ab87629-82d5-4f00-af6d-a1b66c6bfe71" />
+<td valign="rack-holder"><img width=400px alt="rack-holder" src="https://github.com/user-attachments/assets/2ab87629-82d5-4f00-af6d-a1b66c6bfe71" />
 </td>
-<td valign="remote-holder"><img width=350px alt="remote-holder" src="https://github.com/user-attachments/assets/3aafa44c-ff16-4afd-9811-3c1ace6a8317" />
+<td valign="remote-holder"><img width=400px alt="remote-holder" src="https://github.com/user-attachments/assets/3aafa44c-ff16-4afd-9811-3c1ace6a8317" />
 </td>
-<td valign="brushholder1"><img width=350px alt="brush-holder" src="https://github.com/user-attachments/assets/38100da9-6915-4e98-9eba-bf85469d705a" />
+<td valign="brushholder1"><img width=400px alt="brush-holder" src="https://github.com/user-attachments/assets/38100da9-6915-4e98-9eba-bf85469d705a" />
 </td>
+      </tr>
 </table>
 </div>
 
@@ -184,30 +188,35 @@ Source: `BOM.csv`
 <div align="center">
 <table>
 <tr>
-<td valign="goggle-holder"><img width=350px alt="goggle-holder" src="https://github.com/user-attachments/assets/79f080b8-ff22-4d89-84da-665f138d585f" />
+<td valign="goggle-holder"><img width=400px alt="goggle-holder" src="https://github.com/user-attachments/assets/79f080b8-ff22-4d89-84da-665f138d585f" />
 
 </td>
-<td valign="watch-holder"><img width=350px alt="watch-holder" src="https://github.com/user-attachments/assets/9e5f3e85-8de9-4eef-b2a6-9442f1ce8c64" />
+<td valign="watch-holder"><img width=400px alt="watch-holder" src="https://github.com/user-attachments/assets/9e5f3e85-8de9-4eef-b2a6-9442f1ce8c64" />
 
 </td>
-<td valign="Mobile-holder"><img width=350px alt="mobile-holder" src="https://github.com/user-attachments/assets/a828cfdf-9105-4dc4-8370-1a67e4cfec47" />
+<td valign="Mobile-holder"><img width=400px alt="mobile-holder" src="https://github.com/user-attachments/assets/a828cfdf-9105-4dc4-8370-1a67e4cfec47" />
 
 </td>
-<td valign="cup-holder"><img width=350px alt="cup-holder" src="https://github.com/user-attachments/assets/f4f18be3-816d-46fb-85c8-af3c9e039b70" />
+<td valign="cup-holder"><img width=400px alt="cup-holder" src="https://github.com/user-attachments/assets/f4f18be3-816d-46fb-85c8-af3c9e039b70" />
 
 </td>
-<td valign="key-holder"><img width=350px alt="key-holder" src="https://github.com/user-attachments/assets/8b1eec5c-ef5e-46d0-b935-9d0a6707c964" />
+
+</tr>
+    <tr>
+
+
+<td valign="key-holder"><img width=400px alt="key-holder" src="https://github.com/user-attachments/assets/8b1eec5c-ef5e-46d0-b935-9d0a6707c964" />
 
 </td>
-<td valign="rack-holder"><img width=350px alt="rack-holder" src="https://github.com/user-attachments/assets/3807dda4-c55e-4027-ad3f-7a441ca85c27" />
+<td valign="rack-holder"><img width=400px alt="rack-holder" src="https://github.com/user-attachments/assets/3807dda4-c55e-4027-ad3f-7a441ca85c27" />
 
 </td>
-<td valign="remote-holder"><img width=350px alt="remote-holder" src="https://github.com/user-attachments/assets/dd63744c-4334-486b-a5c0-223bdec008d2" />
+<td valign="remote-holder"><img width=400px alt="remote-holder" src="https://github.com/user-attachments/assets/dd63744c-4334-486b-a5c0-223bdec008d2" />
 
 </td>
-<td valign="brushholder1"><img width=350px alt="brushholder1" src="https://github.com/user-attachments/assets/090b2d48-c377-4ca1-911d-39dc42fdc19d" />
-
+<td valign="brushholder1"><img width=400px alt="brushholder1" src="https://github.com/user-attachments/assets/090b2d48-c377-4ca1-911d-39dc42fdc19d" />
 </td>
+</tr>
 </table>
 </div>
 
