@@ -45,7 +45,7 @@ Demo Soon
 </p>
 
 
-## printable like: soon!
+## printable like: https://www.printables.com/model/1815040-useful-holders
 # About the Project
 
 ## **Useful-holder's** - It is combine project of useful holder that comes in our day to day life. And make the things organized.
