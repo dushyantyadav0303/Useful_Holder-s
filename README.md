@@ -46,13 +46,71 @@ Demo Soon
 
 
 ## printable like: soon!
-## About the Project
+# About the Project
 
-**Useful-holder's** - SOoon!'
+## **Useful-holder's** - It is combine project of useful holder that comes in our day to day life. And make the things organized.
+### It consisted of -
+- **Goggle Holder** - It is good looking goggle holder with textured surface that help to hold glases, Specs, Goggles. also Use to showcase them.
+  #### Usage
+  - organized goggles
+  - Display goggle
+  #### Use place
+  - At home to organize goggles and Flex your goggles collection
+  - At Store to display goggles
+
+- **watch-holder** - It is crazy looking watch holder with amazing design on it. that use to holded watch, bracelet & hand wearable.
+  #### Usage
+  - organized watch collection
+  - Display
+  #### Use case 
+  - at home to organize watch collection and yea why not flex your watches in your peer.
+  - At Store to showcase watches.
+
+- **Mobile-holder** - It is a unique phone holder with drawer drawer cabinet section to store stuff.
+  #### Usage
+  - Hold your phone.  
+  - Store stuff in drawer.
+  #### Use case 
+  - Anywhere to hold your mobile phone to watch video, attend meets and recording video.
+  - Store Stuff that you need frequently like earphone, Charger , Sim ejector tool , etc.
+
+- **cup and fork holder** - it is Cup and fork holder with high grip texture on side. helps to hold Paper cups, fork, Spoon, knife other crockery things.
+   #### Usage
+   - help to carry and organize cups, fork, etc.
+   #### Use case 
+   - In party to hold and organize Cups and crockery. 
+   - In kitchen to organize Cups and crockery.
+
+- **key-holder** - It is key holder with beautiful flower design on top. which help to hold you keys and key them organized
+   #### Usage 
+   - Helps hold keys and make them organized 
+   #### Use case 
+   - At home to hold keys + decorating the home with beautiful flower design.
+
+-  **rack** - It is rack with a quotation on it help to showcase things and keep them well organized.
+   #### Usage
+   - It help to showcase Products and keep them well organized.
+   #### Use case 
+   - At store to Showcase there products to customer's and easy organized.
+
+- **remote-holder** -it is remote holder with chocolate bar like design on Surface.
+   #### Usage
+   - it help to organized the remote that we use in daily life ex. Ac remote, Tv remove, fan remote and etc
+   #### Use case 
+   - At home to organize remote that we use in daily life ex. Ac remote, Tv remove, fan remote and etc
+   - At electronic store to organize the home applience remote.
+  
+- **brush-holder** - It is wet paint brush holder with water capture Trey. Cause with loose watercolor painting in which water ratio is higher than color. in this paining we can't put brush on trey less holder otherwise the floor get dirty.
+   #### Usage
+   - In loose watercolor painting 
+   - drying paint brush
+   #### Use case 
+   - In loose watercolor painting in which water ratio is higher than color. this holder with trey help to protect the floot getting dirty.
 
 
+ 
 ## why i made this?
-soon!
+### I made all the Holder's that I and yall needed in our day to day life. which help to organize them and saves time. And this brush holder on the special request of Sister + I also understand that this is very useful in artist life.  
 
 ## Repository Structure
 - `src/` - Fusion 360 project sources
@@ -160,10 +218,6 @@ soon!
 </div>
 
 
-
-
-
-
 ## Bill of Materials
 
 Source: `BOM.csv`
@@ -171,15 +225,15 @@ Source: `BOM.csv`
 
 |Model |item         |Qantity|price|link to buy                                     |
 |------|-------------|-------|-----|------------------------------------------------|
-|goggle-holder|Pla+ filament|--gram| --$   |https://india.numakers.com/products/pla-filament|
-|watch-holder|Pla+ filament|--gram| --$   |https://india.numakers.com/products/pla-filament|
-|Mobile-holder|Pla+ filament|--gram| --$   |https://india.numakers.com/products/pla-filament|
-|cup-holder|Pla+ filament|--gram| --$   |https://india.numakers.com/products/pla-filament|
-|key-holder|Pla+ filament|--gram| --$   |https://india.numakers.com/products/pla-filament|
-|rack-holder|Pla+ filament|--gram| --$   |https://india.numakers.com/products/pla-filament|
-|remote-holder|Pla+ filament|--gram| --$   |https://india.numakers.com/products/pla-filament|
-|brush-holder|Pla+ filament|--gram| --$   |https://india.numakers.com/products/pla-filament|
-|Total|Pla+ filament|--gram| --$   |https://india.numakers.com/products/pla-filament|
+|goggle-holder|Pla+ filament|250gram| 2$   |https://india.numakers.com/products/pla-filament|
+|watch-holder|Pla+ filament|35gram| 0.2$   |https://india.numakers.com/products/pla-filament|
+|Mobile-holder|Pla+ filament|160gram| 1.3$   |https://india.numakers.com/products/pla-filament|
+|cup-holder|Pla+ filament|96gram| 1$   |https://india.numakers.com/products/pla-filament|
+|key-holder|Pla+ filament|94gram| 1$   |https://india.numakers.com/products/pla-filament|
+|rack-holder|Pla+ filament|110gram| 1.1$   |https://india.numakers.com/products/pla-filament|
+|remote-holder|Pla+ filament|173gram| 1.3$   |https://india.numakers.com/products/pla-filament|
+|brush-holder|Pla+ filament|35gram| 0.2$   |https://india.numakers.com/products/pla-filament|
+|Total|Pla+ filament|953gram| 8$   |https://india.numakers.com/products/pla-filament|
 
 ## Production
 
