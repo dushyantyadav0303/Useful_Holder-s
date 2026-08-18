@@ -83,23 +83,25 @@ soon!
 
 
 <div align="center">
-  <table>
+<table>
 <tr>
-
-<td valign="test"><img width=90% alt="image" src="https://github.com/user-attachments/assets/a134dbb1-3f28-4239-8854-193348def5fb" />
+<td valign="bottom"><img width=350px alt="image" src="https://github.com/user-attachments/assets/a134dbb1-3f28-4239-8854-193348def5fb" />
 </td>
 
-<td valign="test"><img width=350px alt="image" src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
+<td valign="bottom"><img width=350px alt="Image" src="https://github.com/user-attachments/assets/086b1987-7d73-4fff-bf5c-2ddf127fca02" />
+</td>
+<td valign="bottom"><img width=350px alt="image" src="https://github.com/user-attachments/assets/5b3aec17-179e-4c16-8392-c60ee8be7334" />
+</td>
+<td valign="bottom"><img width=350px alt="image" src="https://github.com/user-attachments/assets/084242f7-7b61-4bed-903b-c5fa48e5583e" />
+</td>
+<td valign="bottom"><img width=350px alt="image" src="https://github.com/user-attachments/assets/54939395-b84d-4ba9-b711-fcf3bd398743" />
+</td>
+<td valign="bottom"><img width=350px alt="image" src="https://github.com/user-attachments/assets/c28436d3-806f-4a8a-8dfb-0dd799e322c7" />
+</td>
+<td valign="bottom"><img width=350px alt="image" src="https://github.com/user-attachments/assets/671fb6ab-b91e-4b5d-bad5-cc7b098cce2b" />
 </td>
 
-  <td valign="test"><img width=350px alt="image" src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
-</td>
-
-<td valign="test"><img width=350px alt="image" src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
-</td>
-
-<td valign="test"><img width=350px alt="image" src="assets/607538089-f321978d-a0c7-42ad-8e95-90d197f539ce.gif" />
-  </table>
+</table>
 </div>
 
 
