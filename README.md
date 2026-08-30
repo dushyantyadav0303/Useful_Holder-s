@@ -4,7 +4,7 @@
 </h1>
 <div align="center"> 
 
-[![Hack Club forge](https://img.shields.io/badge/Hack%20Club-forge-6F4E37?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://forge.hackclub.com)
+[![Hack Club Macondo](https://img.shields.io/badge/Hack%20Club-Macondo-6F4E37?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Macondo.hackclub.com)
 
 </div>
 
@@ -314,13 +314,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
 
 [![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
-[![Hack Club forge](https://img.shields.io/badge/Hack%20Club-forge-6F4E37?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://forge.hackclub.com)
+[![Hack Club Macondo](https://img.shields.io/badge/Hack%20Club-Macondo-6F4E37?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Macondo.hackclub.com)
 [![Blender](https://img.shields.io/badge/Rendered%20in-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org) 
 [![Bambu Studio](https://img.shields.io/badge/Slice%20in-Bambu%20Studio-green?style=for-the-badge&logo=Bambulab&logoColor=white)](https://bambulab.com/en/download/studio) 
 
 </div>
 
-This project was created during a [Hack Club](https://hackclub.com) event [forge](https://forge.hackclub.com).
+This project was created during a [Hack Club](https://hackclub.com) event [Macondo](https://Macondo.hackclub.com).
 
 - **[Fusion 360](https://www.autodesk.com/products/fusion-360)** - Cad Designing
 - **[Blender](https://www.blender.org)** - Render
