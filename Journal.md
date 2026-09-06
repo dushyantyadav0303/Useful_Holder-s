@@ -1,26 +1,14 @@
 > [!NOTE]
 > Hackatime: 36.5 hrs + Journal: 2hr <br/>
 
-<div align="center">
-<table>
-      <tr>
-<td valign="top"><img width="400px" alt="image-1" src="https://github.com/user-attachments/assets/30b23f45-0e32-4af1-877d-d5f8ddb14f65" />
-</td>
-<td valign="top"><img width="400px" alt="image-2" src="https://github.com/user-attachments/assets/e3f2df4f-ea14-4568-b00c-1ac4534fdca9" />
-</td>
-<td valign="top"><img width="400px" alt="Screenshot 2026-09-06 194029" src="https://github.com/user-attachments/assets/38135acb-bd50-4753-a16a-28272f404be5" />
-</td>
-<td valign="top"><img width="400px" alt="Screenshot 2026-09-06 194048" src="https://github.com/user-attachments/assets/af9ebe70-2cf1-48f9-b075-e91595c6633f" />
-</td>
-<td valign="top"><img width="400px" alt="Screenshot 2026-09-06 194128" src="https://github.com/user-attachments/assets/af6413cf-a398-4c97-8d53-f6ae7df88aca" />
-</td>
-<td valign="top"><img width="400px" alt="Screenshot 2026-09-06 194237" src="https://github.com/user-attachments/assets/63d71580-7ff4-41dd-872b-36a922e42eca" />
-</td>
-<td valign="top"><img width="400px" alt="Screenshot 2026-09-06 194341" src="https://github.com/user-attachments/assets/01d86f13-ce6c-4eda-ade3-053d7a3f2946" />
-</td>
-<td colspan="2"></td>
-      </tr>
-</table>
+<div style="overflow-x: auto; white-space: nowrap; padding-bottom: 10px;">
+  <img width="400px" src="https://github.com/user-attachments/assets/30b23f45-0e32-4af1-877d-d5f8ddb14f65" style="display: inline-block; margin-right: 10px;" />
+  <img width="400px" src="https://github.com/user-attachments/assets/e3f2df4f-ea14-4568-b00c-1ac4534fdca9" style="display: inline-block; margin-right: 10px;" />
+  <img width="400px" src="https://github.com/user-attachments/assets/38135acb-bd50-4753-a16a-28272f404be5" style="display: inline-block; margin-right: 10px;" />
+  <img width="400px" src="https://github.com/user-attachments/assets/af9ebe70-2cf1-48f9-b075-e91595c6633f" style="display: inline-block; margin-right: 10px;" />
+  <img width="400px" src="https://github.com/user-attachments/assets/af6413cf-a398-4c97-8d53-f6ae7df88aca" style="display: inline-block; margin-right: 10px;" />
+  <img width="400px" src="https://github.com/user-attachments/assets/63d71580-7ff4-41dd-872b-36a922e42eca" style="display: inline-block; margin-right: 10px;" />
+  <img width="400px" src="https://github.com/user-attachments/assets/01d86f13-ce6c-4eda-ade3-053d7a3f2946" style="display: inline-block;" />
 </div>
 
 # title: "Useful Holder-s"
